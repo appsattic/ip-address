@@ -1,0 +1,10 @@
+{
+  "name": "ip",
+  "version": "0.1.0",
+  "dependencies": {
+    "micro": "latest"
+  },
+  "scripts": {
+    "start": "node --harmony-async-await index.js"
+  }
+}
