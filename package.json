@@ -2,7 +2,7 @@
   "name": "ip-address",
   "version": "0.3.0",
   "scripts": {
-    "build": "npm ci",
+    "build": "echo 'Done'",
     "start": "node index.js"
   },
   "engines": {
